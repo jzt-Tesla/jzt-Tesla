@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jzt-Tesla.visitor-badge&left_color=red&right_color=green)
 
-[<img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=jzt-Tesla&show_icons=true">](https://metrics.lecoq.io/jzt-Tesla?template=terminal)
+[<img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=jzt-Tesla&show_icons=true">](https://metrics.lecoq.io/jzt-Tesla?template=classic)
 - 🔭 热爱编程的Android工程师；极客硬件爱好者；自诩为浪漫主义的诗人
 - 🌱 持续学习进步中，Coding Foever ~
 - 😄 偶尔伤花感怀，写写诗歌，码码代码，一天就过去了
