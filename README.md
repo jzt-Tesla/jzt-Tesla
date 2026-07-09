@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - 💬 Email：jiangzitao201314@gmail.com
 - ⚡ Wechat Subscription：
 
-![Wechat](./wechat_code.jpg)
+## Wechat Subscription
+
+<img src="./images/wechat_code_small.jpg" width="300">
