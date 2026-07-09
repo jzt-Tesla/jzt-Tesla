@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ## Wechat Subscription
 
-<img src="./images/wechat_code.jpg" width="300">
+<img src="images/wechat_code.jpg" width="300">
